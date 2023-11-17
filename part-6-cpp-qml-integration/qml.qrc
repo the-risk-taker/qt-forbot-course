@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>media/icons/keyboard_arrow_up-24px.svg</file>
+        <file>media/icons/keyboard_arrow_right-24px.svg</file>
+        <file>media/icons/keyboard_arrow_left-24px.svg</file>
+        <file>media/icons/keyboard_arrow_down-24px.svg</file>
+        <file>media/icons/power_off-24px.svg</file>
+        <file>media/icons/power-24px.svg</file>
+    </qresource>
+</RCC>
